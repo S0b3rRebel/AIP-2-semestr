@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Exer\source\repos\5\5\Main.cpp(20,19): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  5.vcxproj -> C:\Users\Exer\source\repos\5\x64\Debug\5.exe

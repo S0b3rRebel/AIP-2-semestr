@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Exer\source\repos\8b\8b\Main.cpp(9,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  8b.vcxproj -> C:\Users\Exer\source\repos\8b\x64\Debug\8b.exe
